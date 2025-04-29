@@ -1,6 +1,6 @@
 # Card Separation Problem – Genetic Algorithm Solution in MATLAB
 
-## 📌 Problem Description
+## Problem Description
 This project addresses a combinatorial optimization problem using a genetic algorithm in MATLAB.
 
 You are given 15 unique cards numbered from **1 to 15**, and the goal is to divide them equally into **three piles** such that:
